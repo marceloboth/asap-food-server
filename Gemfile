@@ -7,7 +7,7 @@ end
 
 gem 'rails', '~> 5.1.6'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'graphql', '1.7.4'
 gem 'search_object', '1.2.0'
 gem 'search_object_graphql', '0.1'
